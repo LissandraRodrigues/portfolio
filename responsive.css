@@ -1,0 +1,89 @@
+@media (max-width: 1400px) {
+
+    .column-left {
+        justify-content: flex-start;
+    }
+
+    .technology p {
+        font-size: 10px;
+    }
+
+}
+
+@media (max-width: 1100px) {
+
+    .projects, .professional-experiences, .educations {
+        grid-template-columns: 1fr;
+        gap: 0px;
+    }
+
+    .technologies {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    p.role {
+        margin-top: 10px;
+    }
+
+    h2.role, p.role {
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 1000px) {
+
+    .info-media a {
+        align-items: center;
+    }
+
+}
+
+@media (max-width: 750px) {
+
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .column-left, .column-right {
+        width: 80%;
+    }
+
+    .technologies {
+        grid-template-columns: 1fr 1fr 1fr;
+    }    
+
+}
+
+@media (max-width: 400px) {
+
+    .footer-project {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .status-project {
+        margin-bottom: 15px;
+    }
+
+    .technologies {
+        grid-template-columns: 1fr 1fr;
+    }    
+
+    .icon-box:last-child {
+        margin-left: 0px;
+    }
+
+    .icon-fork {
+        margin-left: 20px;
+    }
+
+}
