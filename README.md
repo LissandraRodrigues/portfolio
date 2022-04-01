@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 In this project I was challenged to make a Portfolio using HTML and CSS. 
 
@@ -8,12 +8,12 @@ See the <a href="https://lissandrarodrigues.github.io/portfolio/"> deployment</a
 
 <a href="https://app.rocketseat.com.br/discover/challenges/portfolio"> More about this challenge. </a>
 
-### Technologies used
+## Technologies used
 
 - HTML
 - CSS
 
-## Install this project ##
+## Install this project 
 
 ```bash
 # Clone this project:
