@@ -13,7 +13,7 @@ See the <a href="https://lissandrarodrigues.github.io/portfolio/"> deployment</a
 - HTML
 - CSS
 
-## :checkered_flag: Install this project ##
+## Install this project ##
 
 ```bash
 # Clone this project:
