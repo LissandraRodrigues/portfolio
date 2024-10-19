@@ -84,6 +84,7 @@ a:hover {
 }
 
 .green-border, .photo {
+    margin-bottom: 10px;
     border-radius: 50%;
 }
 
@@ -195,9 +196,8 @@ a:hover {
 }
 
 footer {
-    margin: 25px 0px;
+    margin: 25px 0px; 
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
